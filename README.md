@@ -1,2 +1,4 @@
 # voice-demo
-my first repository
+I am Shivam Raj 
+From ABESIT,Gzb
+This is my First Repository
